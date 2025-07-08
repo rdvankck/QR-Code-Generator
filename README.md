@@ -29,7 +29,7 @@ If not installed, follow the [official installation guide](https://nodejs.org/).
 1. Clone the repository or download the source code into a local directory:
 
 ```bash
-git clone https://github.com/yourusername/qr-code-generator.git
+git clone https://github.com/rdvankck/QR-Code-Generator.git
 cd qr-code-generator
 ```
 
@@ -84,12 +84,4 @@ Contributions are welcome! If you have suggestions for improving this project, f
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-```
-
-### What was changed?
-- **Markdown**: Cleaned up and structured the content for clarity and better formatting.
-- **Installation and Usage**: Made the steps clearer and provided proper code block formatting for commands.
-- **Contributing**: Added more detailed contributing instructions.
-
-You can copy-paste this into your GitHub repository's `README.md` file. Let me know if you'd like to customize it further!
 ```
