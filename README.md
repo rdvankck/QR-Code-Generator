@@ -1,5 +1,3 @@
-Here's an updated version of the README file tailored for GitHub. This includes the proper markdown formatting for easier readability and professional presentation:
-
 ````markdown
 # QR Code Generator
 
